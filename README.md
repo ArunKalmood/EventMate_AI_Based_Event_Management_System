@@ -3,7 +3,7 @@
 ## Project Ownership
 
 This project is a customized and extended implementation developed by  
-**Arun Kumar** as part of an academic / internship project.
+**Arun Kumar** as part of an internship project.
 
 Original base concept has been adapted with:
 - Custom branding and UI updates
@@ -253,12 +253,12 @@ http://localhost:5173
 * Focus: Clean architecture, real‑world patterns, and practical AI integration
 
 ---
-## Academic / Internship Details
+## Internship Details
 
 - Developer: Arun Kumar  
 - Project Type: Full-Stack Web Application  
-- Purpose: Internship / Academic Submission  
-- Institution: Alvas Institute Of Engineering and Technology
+- Purpose: Internship Submission  
+- Institution: Infoys Springboard Virtual Internship 6.0
 
 
 This repository represents my personal implementation and learning
