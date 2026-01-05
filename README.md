@@ -1,4 +1,18 @@
-# EVENTMATE AI BASED EVENT PLANNER AND SCHEDULER
+# EventMate – AI Based Event Planner and Scheduler (Customized Version)
+
+## Project Ownership
+
+This project is a customized and extended implementation developed by  
+**Arun Kumar** as part of an academic / internship project.
+
+Original base concept has been adapted with:
+- Custom branding and UI updates
+- Modified frontend workflows
+- Personalized configuration and documentation
+- Independent deployment and testing
+
+GitHub Profile: https://github.com/ArunKalmood
+
 
 EventMate is a full‑stack, AI‑assisted event management platform designed to streamline event discovery, booking, and organizer operations. The system is built with a clear separation between attendee and organizer workflows, combining rule‑based logic with AI‑driven ranking to improve relevance, safety, and scalability.
 
@@ -239,6 +253,17 @@ http://localhost:5173
 * Focus: Clean architecture, real‑world patterns, and practical AI integration
 
 ---
+## Academic / Internship Details
+
+- Developer: Arun Kumar  
+- Project Type: Full-Stack Web Application  
+- Purpose: Internship / Academic Submission  
+- Institution: Alvas Institute Of Engineering and Technology
+
+
+This repository represents my personal implementation and learning
+of full-stack architecture, Spring Boot REST APIs, and React-based UI.
+
 
 ## License
 
